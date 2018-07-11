@@ -7,7 +7,6 @@ class Msodbcsql17 < Formula
 
   option "without-registration", "Don't register the driver in odbcinst.ini"
 
-
   depends_on "unixodbc"
   depends_on "openssl"
 
