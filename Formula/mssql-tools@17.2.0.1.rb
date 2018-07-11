@@ -1,4 +1,4 @@
-class MssqlToolsAT17101 < Formula
+class MssqlToolsAT17201 < Formula
   desc "Sqlcmd and Bcp for Microsoft(R) SQL Server(R)"
   homepage "https://msdn.microsoft.com/en-us/library/ms162773.aspx"
   url "https://download.microsoft.com/download/F/D/1/FD16AA69-F27D-440E-A15A-6C521A1972E6/mssql-tools-17.2.0.1.tar.gz"
