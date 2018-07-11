@@ -5,10 +5,9 @@ class Msodbcsql17AT17201 < Formula
   version "17.2.0.1"
   sha256 "62697b0e452cf26cd08475defed702a2c1ef303aa2fdcb049219a1c00cf11571"
 
-  option "without-registration", "Don't register the driver in odbcinst.ini"
-
-
   keg_only :versioned_formula
+
+  option "without-registration", "Don't register the driver in odbcinst.ini"
 
   depends_on "unixodbc"
   depends_on "openssl"
